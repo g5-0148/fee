@@ -1,0 +1,14 @@
+Q1: What is DOM?
+Ans: DOM (Document Object Model) is an interface used to manipulate structure and style of a webpage.
+
+Q2: What are 5 DOM Manipulation function?
+Ans: document.querySelector(), document.createElement(), element.append(), element.setAttribute(), element.remove().
+
+Q3: What is meaning of asynchronous operations?
+Ans: Operations that take time processes side by side while the remaining code runs in the terminal.
+
+Q4: What is virtual DOM?
+Ans: Virtual dom is a blueprint of user interface.
+
+Q5: How React responds fast to user  actions?
+Ans: React responds fast to user actions as instead of rushing and making entire screen every time a user clicks something, it optimizes the work behind the scenes.
